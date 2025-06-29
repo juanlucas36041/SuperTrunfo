@@ -14,5 +14,5 @@ Existem apenas 2 competidores
 
 # O trabalho consiste na construção de dois programas separados:
 
-*Gerador
-*jogo
+* Gerador
+* jogo
