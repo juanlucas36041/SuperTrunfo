@@ -1,4 +1,4 @@
-# SuperTrunfo-jogo-de-cartas
+# SuperTrunfo
 
 O Super Trunfo é um jogo de cartas em que cada carta tem um conjunto de atributos numéricos. Dois ou mais jogadores competem escolhendo atributos de uma carta e aquele que tem o maior atributo vence, levando as cartas dos oponentes. Quem conseguir ficar com todas as cartas do baralho vence.
 
